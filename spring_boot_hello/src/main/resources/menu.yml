@@ -1,0 +1,8 @@
+app2:
+  menus:
+  - title: HOME2
+    name: HOME2
+    path: /
+  - title: Login2
+    name: Login2
+    path: /login2
